@@ -1,0 +1,38 @@
+Speed piecey increase
+Jump lower
+Speed pickup Rework (Raycast down || Player height during flight)
+Jump on press
+Pickup / Coin posities
+
+
+Features -
+1 timer tutorial (how to play)
+Highscore
+
+De langer je ingedrukt houdt, de hoger je springt
+Meer paralax
+
+
+
+---
+
+
+Alex
+1. Speed opbouwend en later wat langzamer
+2. Local highscore
+3. First timer Tutorial
+4. (Map overloop)
+5. Enemies
+6. (Player) Bird classes
+7. Coin patterns
+8. Sounds & Particles
+
+
+Niels
+1. Class > Character selection (rotation)
+2. Scene Management
+
+
+Frederique
+1. Art voor (Class > Character) selection
+2. Map overlay
