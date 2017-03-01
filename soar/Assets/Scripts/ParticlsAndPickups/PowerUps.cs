@@ -6,11 +6,7 @@ public class PowerUps : MonoBehaviour {
 
 	private enum PowerUpType
 	{
-		ExtraLife,
-		Speed,
-		MegaSpeed,
-		Magnet,
-		Multiplier
+		ExtraLife
 	}
 
 	[SerializeField] private PowerUpType powerUpType;
@@ -32,16 +28,6 @@ public class PowerUps : MonoBehaviour {
 		case PowerUpType.ExtraLife :
 			{
 				pickupManager.AddLife();
-				break;
-			}
-		case PowerUpType.Magnet :
-			{
-				pickupManager.ActivateMagnet();
-				break;
-			}
-		case PowerUpType.Multiplier :
-			{
-				pickupManager.ActivateMultiplier();
 				break;
 			}
 		}

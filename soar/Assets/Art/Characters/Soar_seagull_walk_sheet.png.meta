@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: fc12a4c49a70f334e86998e02b7f9139
+timeCreated: 1488370618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Soar_seagull_walk_sheet_0
+    21300002: Soar_seagull_walk_sheet_1
+    21300004: Soar_seagull_walk_sheet_2
+    21300006: Soar_seagull_walk_sheet_3
+    21300008: Soar_seagull_walk_sheet_4
+    21300010: Soar_seagull_walk_sheet_5
+    21300012: Soar_seagull_walk_sheet_6
+    21300014: Soar_seagull_walk_sheet_7
+    21300016: Soar_seagull_walk_sheet_8
+    21300018: Soar_seagull_walk_sheet_9
+    21300020: Soar_seagull_walk_sheet_10
+    21300022: Soar_seagull_walk_sheet_11
+    21300024: Soar_seagull_walk_sheet_12
+    21300026: Soar_seagull_walk_sheet_13
+    21300028: Soar_seagull_walk_sheet_14
+    21300030: Soar_seagull_walk_sheet_15
+    21300032: Soar_seagull_walk_sheet_16
+    21300034: Soar_seagull_walk_sheet_17
+    21300036: Soar_seagull_walk_sheet_18
+    21300038: Soar_seagull_walk_sheet_19
+    21300040: Soar_seagull_walk_sheet_20
+    21300042: Soar_seagull_walk_sheet_21
+    21300044: Soar_seagull_walk_sheet_22
+    21300046: Soar_seagull_walk_sheet_23
+    21300048: Soar_seagull_walk_sheet_24
+    21300050: Soar_seagull_walk_sheet_25
+    21300052: Soar_seagull_walk_sheet_26
+    21300054: Soar_seagull_walk_sheet_27
+    21300056: Soar_seagull_walk_sheet_28
+    21300058: Soar_seagull_walk_sheet_29
+    21300060: Soar_seagull_walk_sheet_30
+    21300062: Soar_seagull_walk_sheet_31
+    21300064: Soar_seagull_walk_sheet_32
+    21300066: Soar_seagull_walk_sheet_33
+    21300068: Soar_seagull_walk_sheet_34
+    21300070: Soar_seagull_walk_sheet_35
+    21300072: Soar_seagull_walk_sheet_36
+    21300074: Soar_seagull_walk_sheet_37
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2628
+        width: 472
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2628
+        width: 487
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2628
+        width: 496
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2628
+        width: 511
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 2625
+        width: 528
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 2622
+        width: 542
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2126
+        width: 550
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2127
+        width: 570
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2122
+        width: 555
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 2123
+        width: 542
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2126
+        width: 529
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 2127
+        width: 516
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1627
+        width: 504
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1627
+        width: 492
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1624
+        width: 481
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1628
+        width: 472
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1626
+        width: 473
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1626
+        width: 474
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1124
+        width: 477
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1124
+        width: 484
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1124
+        width: 493
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1124
+        width: 501
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1125
+        width: 512
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1125
+        width: 520
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 625
+        width: 531
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 626
+        width: 520
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 627
+        width: 509
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 625
+        width: 497
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 627
+        width: 486
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 627
+        width: 478
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 472
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Soar_seagull_walk_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 127
+        width: 471
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
